@@ -1,2 +1,2 @@
 # XJWaterflowLayout
-瀑布流, 史上最细致的瀑布流,简单好用,详情见我的简书:http://www.jianshu.com/p/1d870dec7dad,希望对用到的下伙伴有所帮助.
+瀑布流, 史上最细致的瀑布流,简单好用,详情见我的简书:http://www.jianshu.com/p/1d870dec7dad
